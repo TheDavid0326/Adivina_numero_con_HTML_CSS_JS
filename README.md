@@ -20,4 +20,4 @@ Este proyecto es un sencillo juego en línea donde el usuario debe adivinar un n
 * Variables y funciones: Declaración y uso de variables para almacenar datos y creación de funciones para modularizar el código.
 
 **Demostración:**
-[https://calculadora-html-css-y-js.netlify.app/](https://adivina-numero-html-css-js.netlify.app/)
+[Adivina el número - Juego de azar en JavaScript](https://adivina-numero-html-css-js.netlify.app/)
