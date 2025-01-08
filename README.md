@@ -1,4 +1,4 @@
-# Calculadora básica
+# Adivina el número - Juego de azar en JavaScript
 
 Este proyecto es un sencillo juego en línea donde el usuario debe adivinar un número aleatorio entre 1 y 100. Con cada intento, el programa le indica si el número ingresado es mayor, menor o igual al número secreto.
 
