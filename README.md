@@ -13,6 +13,12 @@ Este proyecto es un sencillo juego en línea donde el usuario debe adivinar un n
 * CSS: Estiliza la apariencia de la página, personalizando colores, fuentes y diseño.
 * JavaScript: Maneja la lógica del juego, la interacción del usuario y la generación de números aleatorios.
 
+**Funcionamiento:**
+* Inicialización: Al cargar la página, se establece un número aleatorio y se inicializan las variables necesarias.
+* Interacción del usuario: El usuario ingresa un número y hace clic en el botón de "Comprobar".
+* Validación y comparación: Se verifica si el número ingresado es válido y se compara con el número aleatorio.
+* Actualización de la interfaz: Se muestra un mensaje al usuario indicando si el número es mayor, menor o si ha acertado, y se actualiza el contador de intentos.
+
 **Qué aprendí:**
 * Manipulación del DOM: Interacción con elementos HTML para actualizar el contenido de la página.
 * Eventos: Uso de eventos para responder a las acciones del usuario (por ejemplo, al hacer clic en un botón).
